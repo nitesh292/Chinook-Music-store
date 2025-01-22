@@ -1,5 +1,4 @@
 # Chinook-Music-store
-# Chinook Music Store Analysis
 
 ## Project Overview
 The goal of this project is to analyze the Chinook Store data to generate actionable insights for:
@@ -23,16 +22,8 @@ The Chinook Store is a fictional digital media store that sells music tracks. It
 
 ## Data Model
 The dataset consists of 11 interrelated tables:
-- **Artists**
-- **Playlists**
-- **Tracks**
-- **Genres**
-- **Albums**
-- **Invoices**
-- **Invoice Lines**
-- **Customers**
-- **Employees**
-- **Media Types**
+![Model](https://github.com/nitesh292/Chinook-Music-store/blob/main/chinohook%20model.png?raw=true)
+
   
 
 Each table contains rich information that contributes to a holistic analysis of the business.
@@ -44,3 +35,9 @@ Each table contains rich information that contributes to a holistic analysis of 
 - **Excel**: For additional data visualization and summarization.
 
 ---
+## Recommendation
+- Focus on promoting Rock music in the USA through exclusive bundles and artist collaborations, as it generates the highest revenue overall.
+- Increase marketing efforts for the Latin genre in Brazil and Canada, leveraging its strong performance in these countries with regional campaigns.
+- Launch mid-week promotions on Wednesdays targeting underperforming days, emphasizing discounts on Metal and Jazz tracks via digital media formats.
+- Address the seasonal revenue dip in December by offering holiday-themed promotions and discounts on popular albums and genres.
+
