@@ -22,7 +22,7 @@ The Chinook Store is a fictional digital media store that sells music tracks. It
 
 ## Data Model
 The dataset consists of 11 interrelated tables:
-![Model](https://github.com/nitesh292/Chinook-Music-store/blob/main/chinohook%20model.png?raw=true)
+![Model](https://github.com/nitesh292/Chinook-Music-store/blob/main/chinohook%20modeg.png?raw=true)
 
   
 
