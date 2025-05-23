@@ -1,4 +1,4 @@
-# Chinook-Music-store
+# Chinook-Music-store Analysis [SQL]
 
 ## Project Overview
 The goal of this project is to analyze the Chinook Store data to generate actionable insights for:
